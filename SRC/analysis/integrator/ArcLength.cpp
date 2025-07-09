@@ -64,7 +64,7 @@ void* OPS_ArcLength()
 {
     double arcLength;
     if (OPS_GetNumRemainingInputArgs() < 2) {
-	opserr << "WARNING integrator ArcLength arcLength alpha \n";
+	opserr << "Salam \n";
 	return 0;
     }
 
